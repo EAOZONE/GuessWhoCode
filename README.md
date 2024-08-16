@@ -1,0 +1,1 @@
+This is was one of my first real coding projects using robotics. It used an open source robotic arm plus an extender that I designed and printed plus a Raspberry Pi and an Adafruit 16-Channel 12-bit PWM/Servo Driver. This could have looked a lot better but I was still getting used to coding in python.
